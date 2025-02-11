@@ -1,0 +1,66 @@
+Experience
+1. Developed automation systems using PLC programming, implementing complex control algorithms for manufacturing lines with 99.9% uptime.
+2. Designed and optimized HVAC systems for commercial buildings, reducing energy consumption by 25%.
+3. Led cross-functional teams in mechanical-electrical systems integration projects, managing budgets exceeding $2M.
+4. Implemented Industry 4.0 solutions including IoT sensor networks and real-time monitoring systems.
+5. Created digital twin simulations for predictive maintenance using MATLAB and Python.
+6. Designed custom robotics solutions for automotive assembly lines, increasing production efficiency by 40%.
+7. Developed and implemented quality control systems using machine vision and AI algorithms.
+8. Managed facility retrofitting projects, upgrading legacy systems to modern automation standards.
+9. Conducted finite element analysis for critical structural components in aerospace applications.
+10. Optimized manufacturing processes through lean six sigma methodologies, reducing waste by 35%.
+11. Designed and tested embedded systems for industrial control applications using ARM architecture.
+12. Implemented advanced motion control systems using servo motors and precise positioning algorithms.
+
+Additional Skills
+1. Design & Modeling
+   - CAD/CAM using AutoCAD, SolidWorks, and Fusion 360
+   - 3D modeling and simulation
+   - Finite Element Analysis (FEA) using ANSYS and Abaqus
+   - Process simulation using FlexSim and Arena
+
+2. Industrial Automation
+   - PLC programming (Siemens, Allen-Bradley, Omron)
+   - SCADA system design and implementation
+   - HMI development using WonderWare and FactoryTalk
+   - Motion control systems and servo programming
+   - Industrial robotics (FANUC, ABB, KUKA)
+
+3. Electronics & Control
+   - Circuit design and PCB layout (Altium Designer, KiCad)
+   - Microcontroller programming (ARM, PIC, Arduino)
+   - Power electronics and motor drives
+   - Industrial networking (Profibus, Modbus, EtherCAT)
+   - Sensor integration and signal processing 
+4. Software & Programming 
+Python for data analysis and machine learning 
+C/C++ for embedded systems 
+MATLAB for system modeling 
+LabVIEW for test automation 
+Git for version control 
+SQL for database management 
+5. Project Management & Tools 
+Agile and Scrum methodologies 
+MS Project and Jira for project tracking 
+ERP systems (SAP, Oracle) 
+AutoCAD Plant 3D and P&ID 
+Root cause analysis and problem-solving techniques 
+6. Quality & Safety 
+ISO 9001, 14001 standards 
+Six Sigma Green Belt certification 
+GD&T principles and applications 
+OSHA safety standards 
+Risk assessment and mitigation strategies 
+7. Advanced Technologies 
+Machine learning for predictive maintenance 
+AI implementation in manufacturing 
+Industrial IoT solutions 
+Edge computing applications 
+Digital twin development 
+Cloud integration (AWS, Azure) 
+8. Documentation & Communication 
+Technical documentation using Markdown 
+Engineering drawings and specifications 
+Client presentation and training 
+Cross-functional team leadership 
+Vendor management and coordination
